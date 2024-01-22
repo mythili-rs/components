@@ -1,6 +1,7 @@
-//Assignament operator
+//Assignment operator
 var a=10
 console.log("Assignment operator output",a)
+
 //Arithmetic operator
 var aA=10
 var bA=10
